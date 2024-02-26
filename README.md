@@ -14,8 +14,8 @@ This project aims to forecast interest rates in the decentralized finance (DeFi)
 - Financial planning and advisory services.
 
 ## Technologies and Frameworks Used
-- Gizatech Orion and Action SDK for model development and deployment.
-- Gizatech Dataset Loaders for data preprocessing.
+- Gizatech Orion and Action SDK for model development and deployment in Cairo.
+- Gizatech Dataset Loaders for datasets
 - Giza Transpiler for model conversion.
 - PyTorch for deep learning model development.
 - Scikit-learn for data preprocessing and model evaluation.
