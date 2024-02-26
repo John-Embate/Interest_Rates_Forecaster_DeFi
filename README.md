@@ -1,5 +1,3 @@
-# Interest_Rates_Forecaster_DeFi
-
 # Interest Rates Forecaster for DeFi
 
 ## Overview
