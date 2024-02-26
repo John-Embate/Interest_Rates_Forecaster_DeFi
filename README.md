@@ -1,9 +1,22 @@
 # Interest Rates Forecaster for DeFi
 
-## Overview
-"Interest_Rates_Forecaster_DeFi" is a machine learning project aimed at predicting interest rates in Decentralized Finance (DeFi) platforms, focusing on Compound V2. Utilizing historical data, the project develops predictive models to forecast supply and borrow interest rates, enabling better financial decision-making in the DeFi ecosystem.
+## Project Overview
+This project aims to forecast interest rates in the decentralized finance (DeFi) sector, focusing on predicting supply and borrow rates on Compound V2. It leverages deep learning models to analyze historical interest rate data and provide accurate forecasts.
 
-## Features
-- Time-series analysis for interest rate prediction.
-- Utilizes PyTorch for model development and ONNX for model serialization.
-- Employs advanced feature engineering techniques to enhance model accuracy.
+## Objectives
+- To provide accurate predictions of supply and borrow rates in the DeFi market.
+- To assist investors and financial analysts in making informed decisions.
+- To explore the potential of machine learning in understanding DeFi market dynamics.
+
+## Potential Use Cases
+- Investment strategy optimization in the DeFi space.
+- Risk assessment and management for DeFi lending and borrowing.
+- Financial planning and advisory services.
+
+## Technologies and Frameworks Used
+- Gizatech Orion and Action SDK for model development and deployment.
+- Gizatech Dataset Loaders for data preprocessing.
+- Giza Transpiler for model conversion.
+- PyTorch for deep learning model development.
+- Scikit-learn for data preprocessing and model evaluation.
+- Matplotlib and Seaborn for data visualization.
